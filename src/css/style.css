@@ -1,0 +1,1834 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;}
+.logo{
+    width: 20%;
+    padding: 20px;
+}
+#icontop{
+    color: black;
+    font-size: 18px;
+    margin-top: 15px;
+}
+.icotext{
+    font-size: 12px;
+    font-weight: 500;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: black;
+}
+.ultop{
+list-style: none;
+padding: 0;
+float: right;
+padding-top: 25px;
+}
+.ultop-new{
+    list-style: none;
+    padding: 0;
+    float: right;
+    padding-top: 25px;
+    }
+.litop{
+    display: inline-block;
+    padding-right: 30px;
+}
+.nav-link{
+    color: black !important;
+    text-transform: uppercase;
+    text-align: center;
+}
+.navbar-nav .dropdown-menu {
+background-color: black;
+}
+.dropdown-menu-dark .dropdown-item:focus, .dropdown-menu-dark .dropdown-item:hover{
+    background-color: #e52c28;
+}
+#locations{
+    background-color: #f3f5f7;
+    padding-bottom: 8px;
+    padding-top: 110px;
+}
+/* top_background */
+#top_background{
+    background-image: url("../assets/Coconut-Club-with-Panoramic-Ocean-Views-1480x815.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 150px;
+    padding-bottom: 120px;
+}
+.top-head{
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 40px;
+    text-transform: uppercase;
+}
+
+#inpa{
+    padding: 20px;
+    border-right: 1px solid darkgray;
+}
+.btn-success{
+background-color: #128036;
+}
+.input-fields{
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+.input-fields-new{
+    padding-top: 30px;
+}
+#inpa-new{
+    padding: 10px;
+    border-right: 1px solid darkgray;
+    font-size: 12px !important;
+}
+/* top_background */
+/* DEals */
+.heading{
+    color: black;
+    text-align: center;
+    font-weight: 700;
+padding-top: 30px;
+}
+#deals{
+    padding-top: 100px;
+}
+/* DEals */
+
+
+/* Choose Us */
+.para{
+    text-align: center;
+color: #5ca8e4;
+}
+.head-ch{
+    color: #5ca8e4;
+text-align: center;
+font-weight: 400;
+}
+.p-ch{
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+#choose{
+    padding-bottom: 150px;
+    padding-top: 100px;
+}
+.img-ch{
+    display: block;
+    margin: auto;
+    padding: 50px;
+}
+#ch-con{
+    padding-top: 60px;
+}
+/* Choose Us */
+
+/* footer */
+.h-f{
+    color: white;
+    font-weight: 600;
+}
+.h-f2{
+    color: white;
+    font-weight: 600;
+    padding-top: 50px;
+}
+.ul-f{
+    list-style: none;
+    padding: 0;
+}
+.a-f{
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+}
+.li-f{
+    padding-top: 10px;
+    color: white;
+}
+
+#footer{
+    background-color: #6d787d;
+padding-top: 60px;
+padding-bottom: 10px;
+}
+.ft-cp{
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+#cp-m{
+    padding-top: 50px;
+}
+.ft-img--li{
+display: inline-block;
+padding-top: 10px;
+}
+.ft-ima{
+width: 75%;
+}
+#sc{
+    color: #5ca8e4;
+    font-size: 24px;
+    background: white;
+    padding: 6px;
+    border-radius: 27px;
+}
+#scf{
+    color: #5ca8e4;
+    font-size: 24px;
+    background: white;
+    padding-top: 7px;
+    border-radius: 20px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.li-sc{
+display: inline-block;
+padding-top: 10px;
+padding-right: 20px;
+}
+/* footer */
+
+/* BOOKING=============== */
+.fa-chevron-left{
+color: #5ca8e4;
+font-size: 20px;
+margin-top: 30px;
+}
+.modify{
+    font-size: 16px;
+    padding-left: 6px;
+}
+.head_b{
+    text-align: center;
+}
+#booking{
+    padding-bottom: 40px;
+}
+#formz{
+    padding-bottom: 100px;
+}
+.head-form{
+    text-align: center;
+    color: black;
+    background-color: #F3F5F7;
+    font-size: 18px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+.paraf{
+    text-align: center;
+    color: black;
+}
+#btn-form{
+    width: 100%;
+    background-color: #128036;
+    font-weight: 600;
+}
+#btn-formc{
+    width: 100%;
+    background-color: #128036;
+    font-weight: 600;
+    margin-top: 70px;
+}
+#onerow{
+padding: 30px;
+}
+#secrow{
+padding: 30px;    }
+.form-label{
+    font-weight: 600;
+    color: black;
+}
+.in-f{
+    border: 1px solid black;
+    margin-top: 45px;
+}
+.fa-star{
+color:  #FDBF00;
+}
+.p-m{
+    background-color: #F3F5F7;
+    padding: 20px;
+    width: 50%;
+    border: 1px solid black;
+    font-weight: 600;
+    text-align: center;
+    color: #232629;
+}
+.p-n{
+    font-weight: 600;
+    text-align: center;
+    color: #232629;
+    background-color: #F3F5F7;
+    padding: 20px;
+    width: 50%;
+    border: 1px solid black;
+
+}
+.bmn{
+    display: flex;
+width: 87%;
+padding-top: 50px;
+}
+.fa-bed{
+    color: darkgray;
+    font-size: 24px;
+}
+.double{
+    color: black;
+    padding-left: 20px;
+    font-size: 18px;
+}
+.amount{
+    font-size: 20px;
+    font-weight: 600;
+}
+#rmn{
+    padding-top: 40px !important;
+    width: 88%;
+}
+#onrm{
+    width: 88%;
+}
+.amount{
+    float: right;
+}
+.total-am{
+    font-weight: 600;
+    font-size: 20px;
+}
+.amount-total{
+color: #E52C28;
+font-weight: 600;
+font-size: 20px;
+float: right;
+}
+#total{
+    width: 88%;
+    border-top: 1px solid black;
+}
+.pad{
+    padding-top: 30px;
+}
+.padd{
+    padding: 40px;
+}
+.hotel-img{
+    border-radius: 4px;
+}
+.pay-img{
+float: right;
+}
+.text-p{
+    text-align: center;
+    padding-top: 30px;
+}
+#top-section{
+    background-color: #B0D6F5;
+    padding-bottom: 80px;
+}
+.payment-p{
+    background-color: white;
+    padding: 60px;
+}
+/* BOOKING================ */
+
+
+/* payment */
+.pmn{
+    display: flex;
+width: 100%;
+padding-top: 50px;
+}
+#pmn{
+    padding-top: 40px !important;
+    width: 100%;
+}
+#onpm{
+    width: 100%;
+}
+#total-pay{
+    width: 100%;
+    border-top: 1px solid black;
+}
+#pay-ro{
+    background-color: #FFFFFF;
+    padding: 60px;
+    border-radius: 8px;
+    margin-top: 40px;
+}
+.pay-head{
+    padding-top: 15px;
+}
+.pay-gate{
+    text-align: center;
+    color: #232629;
+    padding-top: 50px;
+    padding-bottom: 5px;
+}
+#pay-type{
+    padding-top: 150px;
+padding-bottom: 100px;
+}
+.cardx-p{
+    font-weight: 600;
+    padding-top: 20px;
+}
+.btn-cre{
+    background-color: white;
+padding-left: 60px;
+padding-right: 60px;
+border: none;
+border-radius: 8px;
+padding-top: 20px;
+padding-bottom: 20px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.btn-cre:focus:not(:focus-visible){
+background-color:#B0D6F5;
+}
+.pad-im{
+    padding-top: 80px;
+}
+.pm-m{
+    padding-top: 30px;
+    color: black;
+    font-size: 18px;
+}
+.fac{
+    display: flex;
+}
+#fac1{
+    width: 10%;
+    border: none;
+    border-bottom: 2px solid #2D8EDC;
+    border-radius: 0px;
+    margin: 4px;
+}
+#btn-payc{
+    background-color: #128036;
+    font-weight: bold;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+#fac1:focus{
+border-color: white;
+outline: none;
+}
+/* payment */
+
+/* DETAILS========================== */
+.carousel-control-next-icon{
+    /* background-image: url("../assets/Group\ 51.png"); */
+}
+.carousel-control-prev-icon{
+    /* background-image: url("../assets/Group\ 231.png"); */
+
+}
+.de-ul{
+    list-style: none;
+    padding: 0%;
+}
+.fa-circle{
+    font-size: 8px;
+    color: black;
+}
+.cir{
+    font-size: 16px;
+    padding-left: 10px;
+    color: #232629;
+}
+.de-li{
+    padding-top: 16px;
+}
+#bed{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#ac,#nonac{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.bg-s{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    padding:20px;
+}
+.bg-p1{
+    background: #F3F5F7;
+    padding: 20px;
+    font-size: 12px;
+    width: 100%;
+
+    font-weight: 600;
+    border: 1px solid #BABABA;
+}
+.bg-p2{
+    background: #F3F5F7;
+    width: 100%;
+
+    padding: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    border: 1px solid #BABABA;
+
+}
+.fa-check-circle{
+    color: white;
+}
+#btn-de{
+    width: 80%;
+    display: block;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.contain{
+   margin: 40px !important;
+margin-top: 100px !important;
+}
+.de-amount{
+    color: #e52c28;
+    font-weight: 600;
+    padding: 20px;
+}
+.h-de{
+    padding: 20px;
+}
+#de-inp{
+    padding: 20px;
+}
+.ho-de{
+    color: #2D8EDC;
+    font-weight: 600;
+padding-top: 100px;
+padding-left: 20px;
+}
+.para-de{
+    color: black;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.stars{
+    padding-left: 20px;
+}
+#description{
+padding-top: 140px;
+padding-bottom: 80px;
+}
+.para-m{
+    padding-top: 15px;
+    padding-right: 30px;
+    line-height: 1.5;
+    color: black;
+}
+.amneties{
+padding: 20px;
+}
+.bed{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.reviews{
+    padding: 20px;
+}
+.user-div{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+/* .img-d{
+    padding: 20px;
+} */
+.cont-div{
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.para-con{
+font-size: 14px;
+}
+.see-more{
+    text-decoration: none;
+    color: #2D8EDC;
+    padding-left: 80px;
+}
+.policies{
+    padding: 20px;
+}
+.pol-p{
+    padding-top: 10px;
+}
+.bo-ti{
+    border: 1px solid #6d787d;
+    padding: 8px;
+    font-weight: 600;
+}
+.guest{
+    text-decoration: none;
+    color: #2D8EDC;
+    font-weight: 600;
+}
+.padm-de{
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+.bed-h{
+    padding-bottom: 10px;
+}
+#slider{
+    padding-top: 105px;
+}
+/* DETAILS========================== */
+/* hotels ===========================*/
+/* Remove for prod */
+.rtl-slider-flex {
+    width: 100%;
+    background: #fff;
+  }
+  .thumb-prev,
+  .thumb-next {
+    bottom: 12px !important;
+    right: calc(9% + 0.75em) !important;
+  }
+  .thumb-prev {
+    right: calc(0% + 0.75em) !important;
+  }
+  /* Necessary styles */
+  .rtl-slider-flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+    position: relative;
+  }
+  .rtl-slider-flex .rtl-slider {
+    width: 80%;
+    margin-right: 1%;
+  }
+  .rtl-slider-flex .rtl-slider-nav {
+    width: 19%;
+    margin-top: -2px;
+  }
+  .rtl-slider-flex .rtl-slider-nav .rtl-slider-slide {
+    padding-top: 70%;
+    margin-bottom: 4px;
+    opacity: 0.75;
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+  .rtl-slider-flex .rtl-slider-nav .slick-slide.slick-current.slick-active .rtl-slider-slide {
+    opacity: 1;
+  }
+  .rtl-slider-flex .rtl-slider-slide {
+    padding-top: 56.25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .rtl-slider-flex .thumb-prev,
+  .rtl-slider-flex .thumb-next {
+    position: absolute;
+    bottom: 4px;
+    right: 0;
+    width: 9.5%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background: transparent;
+  }
+  .rtl-slider-flex .thumb-prev {
+    right: 9.5%;
+  }
+.thumb-pre{
+    width: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.thumb-nex{
+    width: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.hotel-name{
+    font-weight: 600;
+    font-size: 18px;
+    color: #2D8EDC;
+}
+.hotel-para{
+    font-size: 12px;
+    color: black;
+}
+.start-ho{
+    color: black;
+}
+.price-ho{
+    color: #e52c28;
+    font-weight: 700;
+    font-size: 22px;
+}
+.night{
+    color: black;
+    font-size: 12px;
+font-weight: 400;
+}
+.para-ho{
+    font-size: 14px;
+    color: black;
+}
+#btnview{
+    font-weight: 600;
+    font-size: 12px;
+    background-color: transparent !important;
+    border: 1px solid black;
+}
+#btnbook{
+    font-weight: 600;
+    font-size: 12px;
+    margin-left: 6px;
+}
+.buttn{
+    padding-bottom: 20px;
+}
+#row-slide{
+    padding: 20px;
+}
+.heading-ho{
+    color: #5ca8e4;
+    font-weight: 600;
+    font: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.fil-ho{
+    font-weight: 600;
+    color: black;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+#price-hod{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+}
+.slider-price{
+    padding-top: 20px;
+}
+.multi-range{
+    width: 80%;
+    color: #E52C28;
+    background: #E52C28 !important;
+}
+.property, .location, .categories{
+    padding-top: 30px;
+    border-top: 1px solid black;
+    width: 80%;
+}
+.prop-head{
+    font-size: 16px;
+    padding-bottom: 20px    ;
+}
+#pagina{
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+.mar{
+    display: block;
+    margin: auto;
+    width: 10%;
+}
+.page-link {
+margin: 10px !important;
+border-radius: 20px !important;
+background-color: white !important;
+color: #2D8EDC !important;
+font-weight: 600 !important;
+}
+.page-link:focus{
+    background-color: #2D8EDC !important;
+    color: white !important ;
+}
+
+.conta{
+    position: relative;
+    width: 70%;
+    height: 100px;
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+input[type="range"]{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 100%;
+    outline: none;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    background-color: transparent;
+    pointer-events: none;
+}
+.slider-track{
+    width: 100%;
+    height: 5px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    background-color: #e52c28 !important;
+    bottom: 0;
+    border-radius: 5px;
+}
+input[type="range"]::-webkit-slider-runnable-track{
+    -webkit-appearance: none;
+    height: 5px;
+}
+input[type="range"]::-moz-range-track{
+    -moz-appearance: none;
+    height: 5px;
+}
+input[type="range"]::-ms-track{
+    appearance: none;
+    height: 5px;
+}
+input[type="range"]::-webkit-slider-thumb{
+    -webkit-appearance: none;
+    height: 1.4em;
+    width: 1.4em;
+    background-color: white;
+    border: 1px solid black;
+    cursor: pointer;
+    margin-top: -9px;
+    pointer-events: auto;
+    border-radius: 50%;
+}
+input[type="range"]::-moz-range-thumb{
+    -webkit-appearance: none;
+    height: 1.7em;
+    width: 1.7em;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: #3264fe;
+    pointer-events: auto;
+}
+input[type="range"]::-ms-thumb{
+    appearance: none;
+    height: 1.7em;
+    width: 1.7em;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: #3264fe;
+    pointer-events: auto;
+}
+input[type="range"]:active::-webkit-slider-thumb{
+    background-color: #e52c28 !important;
+    border: 3px solid #3264fe;
+}
+.values{
+    background-color: #3264fe;
+    width: 10%;
+    position: relative;
+    margin: auto;
+    padding: 10px 0;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ffffff;
+}
+.values:before{
+    content: "";
+    position: absolute;
+    height: 0;
+    width: 0;
+    border-top: 15px solid #3264fe;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    margin: auto;
+    bottom: -14px;
+    left: 0;
+    right: 0;
+}
+#range2{
+    float: right;
+    font-weight: 600;
+    color: black;
+    background-color: lightgray;
+    padding: 4px;
+    border: 1px solid lightgray;
+
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+}
+#range1{
+    font-weight: 600;
+    color: black;
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+
+}
+.logo-new{
+    width: 40%;
+    padding: 10px;
+    padding-top: 20px;
+}
+.description{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+/*  */
+
+/* ABOUT */
+#about{
+    padding-top: 60px;
+}
+.head_ab{
+    color: #2f51b1;
+    font-weight: 700;
+    font-size: 34px;
+}
+.paraab{
+font-size: 20px;
+line-height: 1.5;
+color: black;
+}
+.pad{
+    padding: 100px;
+}
+#img2ab{
+    margin-top: -30px;
+}
+.abimg3{
+display: block;
+margin: auto;
+width: 45%;
+padding-bottom: 60px;
+}
+.ab3h{
+    font-weight: 700;
+    color: #2f51b1;
+    padding-top: 60px;
+}
+.ab3p{
+    font-weight: 500;
+    color: black;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+#heroab{
+    background-image: url(../assets/223.jpg);
+    height: 600px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#herola{
+    background-image: url("../assets/Porto-Zante-Luxury-Villas-Greece-Zakynthos-Greek-Ionian-Islands-Heated-Pool-Beachfront-Villas-Best-Family-Coulpe_Resorts-_CD9A0908final-warm_1400px.png");
+    height: 600px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#postz{
+    padding: 50px;
+}
+#img1ab{
+width: 80%;
+padding: 30px;
+margin-top: 90px;
+border-radius: 8px;
+}
+#img2ab{
+    width: 90%;
+    padding: 30px;
+    margin-top: 90px;
+    border-radius: 8px;
+    }
+.inner_text{
+    /* position: fixed; */
+    position: absolute;
+    top: 40%;
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
+}
+.head1{
+    color: white;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 63px;
+    font-family: 'Open Sans', sans-serif;
+}
+.bline{
+    width: 300px;
+    border-bottom: 3px solid white;
+    margin-bottom: 14px;
+}
+.para1{
+    background-color: #2f51b1;
+    padding: 8px;
+    border-radius: 10px;
+    width: 82%;
+}
+.para1{
+    color: white;
+    font-size: 18px;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-transform: uppercase;
+    line-height: 1.5;
+    font-weight: 500;
+}
+/* ABOUT */
+/* support */
+
+/* section 1 ================*/
+#section1{
+	vertical-align: top;
+    padding: 50px;
+    background-color: #e52c28;
+}
+.text1{
+	text-align: center;
+    font-size: 18pt;
+    line-height: 22pt;
+    font-weight: 400;
+    color: white;
+	padding-left: 180px;
+	padding-right: 180px;
+}
+.text2{
+	text-align: center;
+    font-size: 19px;
+    font-weight: 300;
+	color: white;
+	line-height: 1.2;
+	padding-left: 155px;
+	padding-right: 155px;
+	padding-top: 30px;
+}
+/* section 1 ===============*/
+/* section 2 ============== */
+#section2{
+	vertical-align: top;
+    padding: 50px;
+    background-color:#ffbc01;
+}
+.span-new{
+	text-align: center;
+	font-size: 18px;
+	font-weight: 600;
+	color: white;
+	padding-bottom: 20px;
+}
+.span-nn{
+	text-align: center;
+	font-size: 18px;
+	font-weight: 600;
+	color: white;
+	padding-top: 30px;
+}
+.te1{
+	font-size: 38px;
+	color: white;
+	text-align: center;
+}
+.te2{
+	font-size: 14px;
+text-align: center;
+color: white;
+line-height: 1.5;
+}
+/* section 2 ============== */
+
+/* header */
+#overlay {
+	width: 100%; /* Full width (cover the whole page) */
+	height: 650px; /* Full height (cover the whole page) */
+	top: 13%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.5); 
+	z-index: 999; /* Specify a stack order in case you're using a different order for other elements */
+	cursor: pointer; /* Add a pointer on hover */
+  }
+  #header{
+	  background-image: url("../assets/223.jpg");
+	  background-position: center;
+	  background-size: cover;
+	  background-repeat: no-repeat;
+	  height: 650px;
+  }
+  .data{
+	  position: absolute;
+	 top: 45%;
+  }
+.header-1{
+	font-size: 50px;
+	color: white;
+	font-weight: 700;
+}
+.para-1{
+	color: white;
+	font-size: 16px;
+	line-height: 1.5;
+}
+#trial{
+	background-color: #e31253 !important;
+	border-radius: 20px;
+	border: 1px solid #e31253 !important;
+}
+#light{
+	background-color: transparent !important;
+	border: 2px solid white;
+	border-radius: 20px;
+}
+.fa-play-circle{
+	color: white;
+}
+.btn-sp{
+	color: white;
+}
+/* header */
+/* form */
+.ulist{
+    list-style: none;
+    padding: 0;
+}
+.pads{
+    padding: 60px;
+    margin-top: 30px;
+}
+#padf{
+    margin-top: 60px;
+}
+/* arrow */
+.arrows {
+	width: 60px;
+	height: 72px;
+	position: absolute;
+	left: 50%;
+	margin-left: -30px;
+margin-top: -130px;
+}
+
+.arrows path {
+	stroke: white;
+	fill: transparent;
+	stroke-width: 3px;	
+	animation: arrow 2s infinite;
+	-webkit-animation: arrow 2s infinite; 
+}
+
+@keyframes arrow
+{
+0% {opacity:0}
+40% {opacity:1}
+80% {opacity:0}
+100% {opacity:0}
+}
+
+@-webkit-keyframes arrow /*Safari and Chrome*/
+{
+0% {opacity:0}
+40% {opacity:1}
+80% {opacity:0}
+100% {opacity:0}
+}
+
+.arrows path.a1 {
+	animation-delay:-1s;
+	-webkit-animation-delay:-1s; /* Safari 和 Chrome */
+}
+
+.arrows path.a2 {
+	animation-delay:-0.5s;
+	-webkit-animation-delay:-0.5s; /* Safari 和 Chrome */
+}
+
+.arrows path.a3 {	
+	animation-delay:0s;
+	-webkit-animation-delay:0s; /* Safari 和 Chrome */
+}
+.texta{
+    font-family: 'Roboto Condensed', sans-serif; 
+color: black;
+}
+#newc{
+    color: #e52c28;
+    font-size: 20px;
+}
+.icdiv{
+    margin-left: 7px;
+}
+.iccz{
+    margin-left: -58px;
+}
+#user{
+    margin-left: -1px !important;
+}
+#textar{
+    height: 160px;
+}
+#newf{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+/* support */
+
+/* DEALS */
+.top-pa{
+    padding-top: 60px;
+}
+.package{
+    display: flex;
+    box-shadow: 2px 2px 2px 2px #d3d2d2;
+    border-radius: 4px;
+}
+.img-pa{
+    margin-top: 4px;
+}
+.content{
+    padding: 20px;
+}
+.rapp{
+    font-size: 10px;
+}
+#stam{
+    font-size: 10px !important;
+}
+.price-pa{
+    padding-top: 40px;
+    font-weight: bold;
+    color: #e52c28;
+}
+/* DEALS*/
+
+/* RESPONSIVE==================== */
+@media (min-width:300px) and (max-width : 767px){
+    /* support */
+    .text1{
+        font-size: 16px;
+        padding-left: 1px;
+        padding-right: 1px;
+        line-height: 1.5;
+    }
+    #newf{
+        padding-top: 10px;
+    }
+    #padf{
+margin-top: 0px;
+    }
+    .text2{
+        font-size: 16px;
+        line-height: 1.5;
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+    .te1{
+        font-size: 19px;
+    }
+    .span-new {
+    font-size: 12px;
+    }
+    .te2{
+        font-size: 16px;
+    }
+    .span-nn {
+    font-size: 13px;
+    padding-bottom: 20px;
+    }
+    #section1{
+        padding: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    
+    }
+    #section2{
+        padding: 0px;
+        padding-left: 19px;
+        padding-right: 19px;
+        padding-top: 39px;
+        padding-bottom: 39px;
+    }
+    /* header */
+    .header-1 {
+    font-size: 35px;
+    }
+    .para-1 {
+    font-size: 12px;
+    }
+    .data{
+        padding: 8px;
+        top: 42%;
+    }
+    #trial, #light{
+        font-size: 10px !important;
+    }
+
+
+    /* supprot */
+    .logo{
+        width: 82% !important;
+    }
+    #icontop {
+font-size: 12px;
+    }
+    .icotext {
+    font-size: 10px;
+    }
+    .ultop {
+    padding-top: 16px;
+    }
+    .litop{
+        display: flex;
+        padding-right: 10px;
+    }
+    #locations{
+        display: none;
+    }
+    #top_background {
+padding-top: 199px;
+    }
+    .top-head{
+        font-size: 18px;
+        padding-top: 15px;
+    }
+    .input-fields {
+    padding-top: 20px;
+
+    }
+    #inpa {
+    padding: 7px;
+    font-size: 8px;
+    }
+    .para {
+    font-size: 12px;
+    }
+    #ch-con {
+    padding-top: 6px;
+    }
+    .img-ch {
+    padding: 30px;
+    }
+    .p-ch {
+    font-size: 12px;
+    }
+    #choose {
+padding-bottom: 112px ;
+
+    }
+    .h-f {
+    padding-left: 25px;
+    }
+    .ul-f{
+        padding: 30px;
+    }
+
+    .h-f2{
+        padding-top: 0px;
+        padding-left: 30px;
+    }
+      /* booking */
+      .fa-chevron-left {
+        font-size: 13px;
+        padding-left: 20px;
+        }
+        .modify {
+        font-size: 13px;
+        }
+        .head_b{
+padding-top: 40px;
+text-transform: uppercase;
+        }
+        #formz {
+        margin-top: -25px;
+        }
+        .paraf{
+            font-size: 12px;
+        }
+        #secrow{
+            padding-left: 30px;
+            padding-right: 30px;
+            margin-top: -40px;
+        }
+        #btn-formc{
+            margin-top: 42px;
+            margin-bottom: 20px;
+        }
+        .bo-he{
+            text-align: center;
+            font-size: 20px;
+        }
+        .stz{
+            padding-left: 25px;
+        }
+        .bmn{
+            width: 100%;
+        }
+        .p-m, .p-n{
+            font-size: 12px;
+            padding: 24px;
+        }
+        .fa-bed{
+            padding-top: 20px;
+        }
+        .para-bo{
+            font-size: 12px;
+        }
+        #rmn, #onrm, #total{
+            width: 100%;
+        }
+        .total-am {
+        font-size: 17px;
+        }
+        .las-p{
+            font-size: 12px;
+            font-weight: 500;
+        }
+        /* bookinh */
+
+        /* details */
+        .logo-new {
+        width: 90%;
+        margin-top: 10px;
+        }
+        #inpa-new{
+            margin-top: 10px;
+            font-size: 6px !important;
+            padding: 6px !important;
+        }
+        .ultop-new{
+            float: none;
+            width: 33%;
+    margin: auto;
+    margin-top: -30px;
+        }
+        #slider{
+            padding-top: 150px;
+        }
+        .ho-de{
+padding-top: 50px;
+        }
+        .para-m{
+font-size: 12px;
+line-height: 1.5;
+        }
+        .para-con {
+        font-size: 10px;
+        }
+        .cont-div {
+        padding-top: 15px;
+        }
+        .fa-star{
+            font-size: 12px;
+        }
+        .contain{
+            margin-top: 20px !important;
+            margin: 0px !important;
+        }
+        .bg-p2 {
+        padding: 22px;
+        }
+        .bo-ti{
+            font-size: 12px;
+            margin-left: 2px;
+            margin-right: 2px;
+        }
+        .pol-p{
+            font-size: 12px;
+            line-height: 1.5;
+            padding-top: 20px;
+        }
+        .see-more, .guest{
+            font-size: 12px;
+            font-weight: bold;
+        }
+        /* details */
+        /* pricing */
+#manz{
+    margin: 1px;
+}
+#btnc, #btnm, #btnn{
+margin-bottom: 40px;
+}
+
+        /* picing */
+ /* hotels */
+ .mar {
+width: 75%; 
+}
+#description {
+padding-top: 171px;
+}
+.range{
+    padding-left: 20px;
+}
+.property, .location, .categories{
+    padding-left: 20px;
+}
+.heading-ho{
+text-align: center;
+padding-top: 40px;
+}
+.hotel-name{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+ .hotel-para, .start-ho,.stars-ho, .price-ho, .para-ho, .buttn{
+    padding-left: 20px;
+}
+ /* hotels */
+ /* about */
+ .head1 {
+font-size: 42px; 
+}
+.para1{
+    font-size: 12px;
+}
+.bline{
+    width: 220px;
+}
+#heroab {
+height: 500px;
+}
+.pad {
+padding: 20px;
+}
+.head_ab {
+font-size: 19px;
+padding-top: 20px;
+}
+.paraab{
+    font-size: 14px;
+}
+#img1ab{
+    margin-top: 0px;
+    margin: auto;
+    padding: 0;
+    display: block;
+}
+#img2ab{
+    margin-top: 0px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    display: block;
+}
+.ab3h{
+    font-size: 22px;
+}
+.ab3p{
+    font-weight: 400;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 12px;
+}
+.abimg3{
+    width: 75%;
+    margin-top: 10px;
+
+}
+ /* about */
+/* deals */
+.img-pa{
+    width: 88%;
+}
+.content{
+    padding: 20px;
+}
+.ho-pa{
+    font-size: 17px !important;
+}
+
+
+.package{
+    display: block;
+    margin: 40px;
+}
+.img-pa{
+    width: 100%;
+}
+/* deals */
+
+ 
+    }
+    
+    @media (min-width:768px) and (max-width : 1023px){
+    .logo{
+        width: 30%;
+    }
+    .ultop{
+        padding-top: 15px;
+    }
+    .litop {
+padding-right: 0px;
+    }
+    .navbar-nav .nav-link {
+    font-size: 12px !important;
+    }
+    #locations{
+        display: none;
+    }
+    .top-head {
+    padding-top: 6px;
+    }
+    .img-ch{
+        width: 100%;
+        padding: 40px;
+    }
+    .head-ch{
+        font-size: 12px;
+        font-weight: 600;
+    }
+    .p-ch {
+    font-size: 10px;
+    }
+    #ch-con {
+    padding-top: 13px;
+    }
+    .fa-chevron-left {
+    padding-left: 21px;
+    }
+    .head_b {
+padding-top: 40px;
+text-transform: uppercase;
+    }
+    .paraf{
+        font-size: 10px;
+    }
+    .form-control{
+        font-size: 12px !important;
+    }
+    #btn-form{
+        font-size: 10px;
+        margin-top: 3px;
+    }
+    #onerow ,#secrow{
+        padding: 0px;
+padding-top: 10px;
+padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .form-label{
+        font-size: 12px;
+    }
+    .bo-he{
+font-size: 14px;
+    }
+    .fa-star {
+    font-size: 10px;
+    }
+    .rat{
+font-size: 6px;
+    }
+    .bmn {
+width: 100%;
+    }
+    .p-m, .p-n{
+        font-size: 10px;
+        padding: 28px;
+    }
+    .fa-bed {
+    padding-top: 20px;
+    }
+    .para-bo{
+font-size: 12px;
+    }
+    #rmn, #onrm, #total{
+width: 100%;
+    }
+    .total-am{
+font-size: 16px;
+    }
+    .las-p{
+font-size: 10px;
+    }
+    /* details */
+    .logo-new {
+    width: 71%;
+    }
+    .ultop-new {
+    padding-left: 20px;
+    }
+    #inpa-new {
+    font-size: 8px !important;
+    }
+    .input-fields-new {
+    padding-top: 35px;
+    }
+    #slider{
+        padding-top: 125px;
+    }
+    .ho-de {
+    padding-top: 50px;
+    }
+    .para-m {
+    font-size: 10px;
+    }
+    .cir{
+        font-size: 10px;
+        padding-left: 4px;
+    }
+    .para-con{
+        font-size: 9px;
+    }
+    .pol-p{
+        font-size: 12px;
+        padding-top: 20px;
+    }
+    .guest, .user{
+        font-size: 12px;
+    }
+    .contain{
+        margin: 0px !important;
+    }
+    .bg-p1, .bg-p2 {
+    font-size: 9px;
+    padding: 21px;
+    }
+    .mop{
+        margin-top: 50px;
+      }
+    /* details */
+    /* pricing */
+    #pay-ro {
+    padding: 35px;
+    }
+    .pay-head{
+        font-size: 14px;
+    }
+    /* pricing */
+    /* hotels======= */
+    #description {
+    padding-top: 140px;
+    }
+    .text-uppercase{
+        font-size: 9px;
+    }
+    .start-ho{
+font-size: 10px;
+    }
+    .price-ho{
+font-size: 11px;
+    }
+    .para-ho {
+font-size: 9px;
+    }
+    #btnview,#btnbook {
+    font-size: 10px;
+    }
+    #btnbook{
+margin-top: 6px;
+    }
+    .mar {
+    width: 34%;
+    }
+    /* hotels======== */
+
+
+    /* about */
+    .inner_text{
+        top: 27%;
+    }
+    .pad {
+    padding: 15px;
+    }
+    .head_ab {
+    font-size: 18px;
+    }
+    .paraab{
+        font-size: 12px;
+    }
+    #img1ab, #img2ab{
+        margin-top: 0px;
+    }
+    .ab3h{
+        font-size: 18px;
+    }
+    .ab3p {
+    font-size: 12px;
+    }
+    .abimg3 {
+    width: 55%;
+    margin-top: 10px;
+    }
+    /* about */
+
+    /* support */
+   
+    .text1{
+        font-size: 16px;
+        padding-left: 80px;
+        padding-right: 80px;
+        line-height: 1.5;
+    }
+    .text2{
+        padding-left: 75px;
+        padding-right: 75px;
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    .data{
+        top: 32%;
+        padding: 10px;
+    }
+    .header-1 {
+    font-size: 43px;
+    }
+    .pads{
+        padding: 40px;
+    }
+    /* support */
+    .package{
+        display: block;
+    }
+    .img-pa{
+        width: 100%;
+    }
+    }
+
+    @media (min-width:1024px) and (max-width : 1279px){
+        .data{
+            top: 22%;
+            padding: 30px;
+        }
+       
+        }
+
+
+
+
+
+
+
+/* RESPONSIVE==================== */
